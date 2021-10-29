@@ -1,1 +1,2 @@
-# sentiment_analysis_Amazon
+# Sentiment Analysis Amazon Product
+The information collected from this notebook was implemented in a RnR (Research and Reflect) paper generated for Medium.com
